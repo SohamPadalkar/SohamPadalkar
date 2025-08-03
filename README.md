@@ -26,7 +26,7 @@ Learning and experimenting with new technologies
 Reading books
 Watching sitcoms
 Listening to music
-
+Linkedin : https://www.linkedin.com/in/soham-padalkar-168297366/
 <!--
 **SohamPadalkar/SohamPadalkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
