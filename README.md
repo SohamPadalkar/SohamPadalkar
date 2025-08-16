@@ -2,7 +2,7 @@
 👋 Hi, I'm Soham Padalkar
 Student | Problem Solver | Tech Explorer
 
-🚀 About Me
+🚀 About Me..
 I'm a passionate student who loves building things that solve problems and delight users. Whether it's diving into algorithms, contributing to open source, or learning new technologies, I'm always excited to take on new challenges. My goal is to keep growing my technical toolkit and collaborate on fun, impactful projects!
 
 💡 Skills & Technologies
