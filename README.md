@@ -18,7 +18,7 @@ Exploring algorithms and data structures with Java.
 
 Feel free to check out my repositories for more!
 
-🎯 Current Focus
+🎯 Current Focus:
 Growing my technical toolkit
 Collaborating on projects that spark joy and creativity
 Learning and experimenting with new technologies
