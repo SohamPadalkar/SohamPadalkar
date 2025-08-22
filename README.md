@@ -11,7 +11,7 @@ Specialties: Explain-it-like-I-am-5, Java-DSA
 Interests: Algorithms, Data Structures, Open Source, Web Development
 🌟 Featured Projects
 Explain-it-like-I-am-5, AI Buddy
-Simple explanations for tough concepts — making tech accessible for everyone!
+Simple explanations for tough concepts — making tech accessible for everyone!!
 
 Java-DSA
 Exploring algorithms and data structures with Java.
