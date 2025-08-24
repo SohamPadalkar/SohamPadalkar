@@ -16,7 +16,7 @@ Simple explanations for tough concepts — making tech accessible for everyone!!
 Java-DSA
 Exploring algorithms and data structures with Java.
 
-Feel free to check out my repositories for more!
+Feel free to check out my repositories for more!!
 
 🎯 Current Focus:
 Growing my technical toolkit
